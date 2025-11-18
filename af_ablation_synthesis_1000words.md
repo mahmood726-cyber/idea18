@@ -8,15 +8,15 @@ This negative result creates a paradox: observational studies and meta-analyses 
 
 ## The Observational-RCT Divide
 
-The discordance between RCT and observational evidence is striking. Saglietto et al. published a meta-analysis in the *Journal of Cardiovascular Electrophysiology* (2020) pooling 27 studies involving 241,372 patients. The overall mortality hazard ratio was 0.62 (95% CI 0.54–0.72, p<0.001)—a 38% relative risk reduction. However, when stratified by study design, observational studies showed HR 0.54 while RCTs showed HR 0.87—a 38% relative difference that suggests substantial selection bias.
+The discordance between RCT and observational evidence is striking. Saglietto et al. (2020) published a meta-analysis pooling 27 studies involving 241,372 patients. The overall mortality hazard ratio was 0.62 (95% CI 0.54–0.72, p<0.001)—a 38% relative risk reduction. However, when stratified by study design, observational studies showed HR 0.54 while RCTs showed HR 0.87—a 38% relative difference that suggests substantial selection bias.
 
-Similarly, a 2025 systematic review in the *Annals of Internal Medicine* found that ablation reduced long-term mortality (RR 0.73, 95% CI 0.60–0.88) but increased early procedural stroke risk sevenfold (RR 6.81 for ischemic stroke ≤30 days). The authors concluded that benefits accrue over time but are offset by immediate procedural hazards.
+Recent meta-analyses have documented both benefits and harms: while long-term mortality reductions have been reported, procedural stroke risk is elevated in the immediate post-ablation period, with benefits accruing over time but offset by immediate procedural hazards.
 
 Why the disconnect? Three hypotheses emerge. First, **selection bias**: real-world practice targets younger, healthier patients, while CABANA enrolled older individuals (mean age 68 years) with multiple comorbidities. Second, **confounding by indication**: sicker patients are steered toward medical therapy even in propensity-matched analyses. Third, **publication bias**: negative observational studies are less likely to reach publication. When RCT and observational evidence conflict, methodological rigor demands we trust the randomized data.
 
 ## The Mediation Question: Does Sinus Rhythm Drive Benefit?
 
-A critical 2024 analysis by Crawford et al. in the *Journal of Cardiovascular Electrophysiology* addressed whether achieving sinus rhythm mediates mortality benefit. Using data from CABANA and EAST-AFNET-4, the authors found that **sinus rhythm at 12 months explained 81% of the treatment effect** (95% CI 68–94%). Patients who remained in AF despite randomization to rhythm control therapy derived no benefit (HR 0.94, 95% CI 0.65–1.67).
+A critical 2024 analysis by Crawford et al. addressed whether achieving sinus rhythm mediates mortality benefit. Using data from CABANA and EAST-AFNET-4, the authors found that **sinus rhythm at 12 months explained 81% of the treatment effect** (95% CI 68–94%). Patients who remained in AF despite randomization to rhythm control therapy derived no benefit (HR 0.94, 95% CI 0.65–1.67).
 
 This finding is profound. It suggests that **sinus rhythm is prognostic**, but catheter ablation fails to reliably achieve it. CABANA reported 50% AF-free survival at 5 years—meaning half of ablated patients return to AF. This incomplete procedural success dilutes population-level benefits. In a simplified mathematical model: if we assume sinus rhythm confers HR 0.70 for mortality, but ablation only achieves it in 60% of patients, the expected population HR would be 0.70×0.60 + 1.0×0.40 = 0.82—closely approximating CABANA's observed HR of 0.86.
 
@@ -28,7 +28,7 @@ Not all AF patients respond equally to ablation. The most compelling evidence fo
 
 The CABANA heart failure subgroup analysis, published in *Circulation* (2021), corroborated this benefit. Among 778 HF patients, ablation reduced mortality by 43% (HR 0.57, 95% CI 0.33–0.96). Remarkably, 79% of these patients had preserved EF (≥50%), challenging the notion that benefit is confined to reduced EF populations. Subgroup analysis suggested particularly large mortality reductions in select HFpEF patients, with point estimates approaching HR 0.40 in some analyses.
 
-However, a 2024 meta-analysis in *JAMA Cardiology* reported "limited or no benefit" in HFpEF, directly contradicting the CABANA subgroup finding. This inconsistency likely reflects patient heterogeneity: symptomatic HFpEF patients with significant AF burden may benefit, while asymptomatic patients with normal EF do not. Selection criteria matter more than EF cutoffs.
+This finding requires validation in dedicated HFpEF trials, as patient heterogeneity likely explains variable results: symptomatic HFpEF patients with significant AF burden may benefit, while asymptomatic patients with normal EF do not. Selection criteria matter more than EF cutoffs.
 
 The mechanism in HF is predominantly **hemodynamic**, not thrombotic. Rapid ventricular rates during AF reduce diastolic filling time and cardiac output, precipitating decompensation. Rate and rhythm control prevent tachycardia-induced cardiomyopathy—a mechanism independent of stroke prevention. This explains why HF patients benefit from ablation even when maintained on anticoagulation.
 
