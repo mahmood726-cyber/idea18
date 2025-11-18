@@ -8,7 +8,7 @@ This negative result creates a paradox: observational studies and meta-analyses 
 
 ## The Observational-RCT Divide
 
-The discordance between RCT and observational evidence is striking. Saglietto et al. published a meta-analysis in the *Journal of Cardiovascular Electrophysiology* (2020) pooling 27 studies involving 241,372 patients. The overall mortality hazard ratio was 0.62 (95% CI 0.54–0.72, p<0.001)—a 38% relative risk reduction. However, when stratified by study design, observational studies showed HR 0.54 while RCTs showed HR 0.87. This 39% difference cannot be attributed to chance.
+The discordance between RCT and observational evidence is striking. Saglietto et al. published a meta-analysis in the *Journal of Cardiovascular Electrophysiology* (2020) pooling 27 studies involving 241,372 patients. The overall mortality hazard ratio was 0.62 (95% CI 0.54–0.72, p<0.001)—a 38% relative risk reduction. However, when stratified by study design, observational studies showed HR 0.54 while RCTs showed HR 0.87—a 38% relative difference that suggests substantial selection bias.
 
 Similarly, a 2025 systematic review in the *Annals of Internal Medicine* found that ablation reduced long-term mortality (RR 0.73, 95% CI 0.60–0.88) but increased early procedural stroke risk sevenfold (RR 6.81 for ischemic stroke ≤30 days). The authors concluded that benefits accrue over time but are offset by immediate procedural hazards.
 
@@ -18,7 +18,7 @@ Why the disconnect? Three hypotheses emerge. First, **selection bias**: real-wor
 
 A critical 2024 analysis by Crawford et al. in the *Journal of Cardiovascular Electrophysiology* addressed whether achieving sinus rhythm mediates mortality benefit. Using data from CABANA and EAST-AFNET-4, the authors found that **sinus rhythm at 12 months explained 81% of the treatment effect** (95% CI 68–94%). Patients who remained in AF despite randomization to rhythm control therapy derived no benefit (HR 0.94, 95% CI 0.65–1.67).
 
-This finding is profound. It suggests that **sinus rhythm is prognostic**, but catheter ablation fails to reliably achieve it. CABANA reported 50% AF-free survival at 5 years—meaning half of ablated patients return to AF. This incomplete procedural success dilutes population-level benefits. A simple calculation illustrates: if sinus rhythm confers HR 0.70 for mortality, but ablation only achieves it in 60% of patients, the expected population HR is 0.70×0.60 + 1.0×0.40 = 0.82. This matches CABANA's observed HR of 0.86.
+This finding is profound. It suggests that **sinus rhythm is prognostic**, but catheter ablation fails to reliably achieve it. CABANA reported 50% AF-free survival at 5 years—meaning half of ablated patients return to AF. This incomplete procedural success dilutes population-level benefits. In a simplified mathematical model: if we assume sinus rhythm confers HR 0.70 for mortality, but ablation only achieves it in 60% of patients, the expected population HR would be 0.70×0.60 + 1.0×0.40 = 0.82—closely approximating CABANA's observed HR of 0.86.
 
 The implication is clear: the problem is not that sinus rhythm lacks benefit, but that **ablation is an imperfect means to achieve it**. This reframes the question from "Does ablation work?" to "For whom does ablation reliably restore sinus rhythm?"
 
@@ -26,7 +26,7 @@ The implication is clear: the problem is not that sinus rhythm lacks benefit, bu
 
 Not all AF patients respond equally to ablation. The most compelling evidence for mortality benefit comes from heart failure (HF) populations. CASTLE-AF (2018) enrolled 363 patients with AF and HF with reduced ejection fraction (EF ≤35%). Over 60 months, ablation reduced all-cause mortality by 47% (HR 0.53, 95% CI 0.32–0.86) with a number needed to treat (NNT) of 7 to prevent one death or HF hospitalization.
 
-The CABANA heart failure subgroup analysis, published in *Circulation* (2021), corroborated this benefit. Among 778 HF patients, ablation reduced mortality by 43% (HR 0.57, 95% CI 0.33–0.96). Remarkably, 79% of these patients had preserved EF (≥50%), challenging the notion that benefit is confined to reduced EF populations. Some patients with HFpEF experienced 60% mortality reduction (HR ~0.40).
+The CABANA heart failure subgroup analysis, published in *Circulation* (2021), corroborated this benefit. Among 778 HF patients, ablation reduced mortality by 43% (HR 0.57, 95% CI 0.33–0.96). Remarkably, 79% of these patients had preserved EF (≥50%), challenging the notion that benefit is confined to reduced EF populations. Subgroup analysis suggested particularly large mortality reductions in select HFpEF patients, with point estimates approaching HR 0.40 in some analyses.
 
 However, a 2024 meta-analysis in *JAMA Cardiology* reported "limited or no benefit" in HFpEF, directly contradicting the CABANA subgroup finding. This inconsistency likely reflects patient heterogeneity: symptomatic HFpEF patients with significant AF burden may benefit, while asymptomatic patients with normal EF do not. Selection criteria matter more than EF cutoffs.
 
@@ -36,7 +36,7 @@ The mechanism in HF is predominantly **hemodynamic**, not thrombotic. Rapid vent
 
 CABANA's per-protocol analysis showed significant benefit (HR 0.67, 95% CI 0.50–0.89, p=0.006), contrasting with the negative intent-to-treat result. Electrophysiologists argue this reflects the "true biological effect" of ablation, with the ITT analysis diluted by 27.5% of drug-therapy patients crossing over to ablation.
 
-This interpretation is methodologically flawed. Crossover patients were likely sicker—drug therapy failures requiring rescue ablation. Excluding them creates post-randomization selection bias. The PROBE-AF registry demonstrated that when ablation is performed in unselected patients (including those resembling CABANA crossovers), outcomes mirror the ITT analysis, not the per-protocol.
+This interpretation is methodologically flawed. Crossover patients were likely sicker—drug therapy failures requiring rescue ablation. Excluding them creates post-randomization selection bias. Real-world registry data suggest that outcomes in unselected patients more closely mirror the ITT analysis than the per-protocol results.
 
 The conservative interpretation: ITT is correct. Ablation shows a non-significant trend toward benefit in the general AF population.
 
@@ -44,7 +44,7 @@ The conservative interpretation: ITT is correct. Ablation shows a non-significan
 
 The evidence supports two distinct indications for catheter ablation, often conflated in practice:
 
-**Symptomatic benefit** (well-established): Ablation improves quality of life with NNT 3–4 for symptom reduction. CABANA demonstrated significant improvements on the AF Severity Scale and reduced hospitalizations. This is a Class I guideline recommendation.
+**Symptomatic benefit** (well-established): Ablation improves quality of life with clinically meaningful improvements. CABANA demonstrated that 14% more ablation patients achieved minimal or no symptoms at 12 months compared to drug therapy (NNT approximately 7), with sustained benefits on the AF Severity Scale through 5 years. This is a Class I guideline recommendation.
 
 **Prognostic benefit** (uncertain in general population, proven in HF): Mortality reduction is demonstrated in HFrEF (CASTLE-AF) and symptomatic HF populations (CABANA subgroup) with NNT 7–14. However, the general AF population showed no significant benefit in the largest RCT (CABANA ITT).
 
@@ -58,7 +58,7 @@ The evidence synthesis reveals a nuanced picture. Catheter ablation reliably imp
 
 For clinical practice, this suggests:
 
-1. **Ablation for symptoms**: Class I recommendation with strong evidence (NNT 3–4)
+1. **Ablation for symptoms**: Class I recommendation with strong evidence (NNT approximately 7 for achieving minimal symptoms)
 2. **Ablation for HF patients**: Class I recommendation with mortality benefit (NNT 7–14)
 3. **Ablation for general AF stroke prevention**: Not proven; anticoagulation remains mandatory
 4. **Patient selection matters**: Symptomatic burden and HF status predict benefit more than age or EF alone

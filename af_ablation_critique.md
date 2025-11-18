@@ -10,7 +10,7 @@
 
 **Results**: The CABANA trial (ITT analysis) demonstrated no significant reduction in the composite endpoint of death, disabling stroke, serious bleeding, or cardiac arrest (HR 0.86, 95% CI 0.65–1.15, p=0.30). Meta-analyses including observational data show mortality reductions (HR 0.62-0.73), but this conflicts with RCT evidence, suggesting selection bias. Mediation analysis reveals that sinus rhythm explains 81% of treatment effect when achieved, but ablation success rates are only 50-60% at 5 years. Subgroup analyses demonstrate clear benefit in heart failure patients (CASTLE-AF: HR 0.53; CABANA HF subgroup: HR 0.57), but conflicting results for patients with preserved ejection fraction.
 
-**Conclusions**: Catheter ablation for AF provides well-established symptomatic benefit (NNT 3-4 for quality of life improvement) and clear prognostic benefit in heart failure patients with reduced ejection fraction (NNT 7-14 for mortality). However, prognostic benefit in the general AF population remains unproven in RCTs. The procedure should be positioned as symptom-control therapy with HF-specific prognostic benefits, not as universal stroke prevention. Anticoagulation must continue based on CHA₂DS₂-VASc score regardless of ablation success.
+**Conclusions**: Catheter ablation for AF provides well-established symptomatic benefit (14% absolute increase in patients achieving minimal symptoms at 12 months, NNT approximately 7) and clear prognostic benefit in heart failure patients with reduced ejection fraction (NNT 7-14 for mortality). However, prognostic benefit in the general AF population remains unproven in RCTs. The procedure should be positioned as symptom-control therapy with HF-specific prognostic benefits, not as universal stroke prevention. Anticoagulation must continue based on CHA₂DS₂-VASc score regardless of ablation success.
 
 ---
 
@@ -265,7 +265,7 @@ This section examines:
 
 **Heterogeneity**: I² = 72% (substantial), suggesting context-dependent effects
 
-**Critical Observation**: The largest benefit was seen in **observational studies** (HR 0.54) versus **RCTs** (HR 0.87). This 39% difference cannot be dismissed.
+**Critical Observation**: The largest benefit was seen in **observational studies** (HR 0.54) versus **RCTs** (HR 0.87)—a 38% relative difference suggesting substantial selection bias.
 
 ---
 
@@ -427,8 +427,8 @@ Per-protocol analysis violates randomization. Patients who crossed over were lik
 
 Excluding these patients creates **post-randomization selection bias**.
 
-**The PROBE-AF Study (Real-World Registry)**:
-When ablation is performed in unselected patients (including those who would have crossed over in CABANA), outcomes are **worse** than per-protocol CABANA but **similar to ITT**.
+**Real-World Registry Data**:
+Real-world registry data suggest that outcomes in unselected patients (including those who would have crossed over in CABANA) more closely mirror the ITT analysis than the per-protocol results.
 
 **Conclusion**: ITT analysis is correct. Per-protocol overestimates benefit.
 
