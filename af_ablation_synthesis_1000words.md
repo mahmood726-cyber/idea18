@@ -4,7 +4,7 @@
 
 Catheter ablation for atrial fibrillation (AF) has become a multi-billion dollar industry, with over 100,000 procedures performed annually in the United States alone. The procedure is predicated on a simple causal framework: restore sinus rhythm, prevent thromboembolism, reduce mortality. Yet the flagship randomized controlled trial (RCT) testing this hypothesis—CABANA, published in JAMA in 2019—showed no significant mortality benefit. The trial randomized 2,204 patients to catheter ablation versus antiarrhythmic drug therapy and found a hazard ratio (HR) of 0.86 (95% CI 0.65–1.15, p=0.30) for the composite primary endpoint of death, disabling stroke, serious bleeding, or cardiac arrest.
 
-This negative result creates a paradox: observational studies and meta-analyses consistently report substantial mortality reductions (HR 0.62–0.73), yet the largest RCT found no benefit. How do we reconcile this evidence? And what does it mean for the millions of AF patients worldwide?
+This negative result creates a paradox: observational studies and meta-analyses consistently report substantial mortality reductions (HR ~0.62), yet the largest RCT found no benefit. How do we reconcile this evidence? And what does it mean for the millions of AF patients worldwide?
 
 ## The Observational-RCT Divide
 
